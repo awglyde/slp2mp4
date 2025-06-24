@@ -4,8 +4,7 @@
 Melee][ssbm] to mp4 videos. To run this use a command that looks like:
 
 ```
-py -3.9 slp2mp4.py run "C:\Users\awgly\Documents\Slippi\2025-05\Game_20250510T231211.slp" -o C:\Users\awgly\Videos\Rep
-lays\
+py -3.9 slp2mp4.py run "E:\SlippiVideos\Replays\<GameName>.slp" -o "E:\SlippiVideos\MP4s\"
 ```
 
 The goal is to make it easy to batch-convert replays to HD video without screen
